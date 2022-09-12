@@ -1,6 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-str main()
-{
-	gcc $FILE.C -o $file
-}
+gcc $FILE -s c
